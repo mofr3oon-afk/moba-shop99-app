@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.mobashop99.pharaoh'; compileSdk 35
+    defaultConfig { applicationId 'com.mobashop99.pharaoh'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0' }
+}
